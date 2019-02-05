@@ -33,8 +33,8 @@ Pre-Airdrop allocation data is publicly available on [GitHub](https://github.com
 Both Pre-Airdrop & Mega-Airdrop allocation have been completed. As per the airdrop terms, the tokens left in airdrop wallets will be burned. Users who had funds in IDEX during Mega-Airdrop snapshot, will not be awarded with airdrop TDP tokens.
 
 Below are the details for the number of tokens that will be burned:
-1. [Airdrop Allocation Wallet](https://etherscan.io/token/0x5b11aacb6bddb9ffab908fdce739bf4aed554327?a=0xea7da5261c82a56e7bb555cdae593ba83fdbae52) = 1,628,174.29785908199623499 TDP
-2. [Pre-Airdrop Allocation Wallet](https://etherscan.io/token/0x5b11aacb6bddb9ffab908fdce739bf4aed554327?a=0xf49508d2572af430aa16a733854311e1697ca40b) = 645 TDP
+
+[Airdrop Allocation Wallet](https://etherscan.io/token/0x5b11aacb6bddb9ffab908fdce739bf4aed554327?a=0xea7da5261c82a56e7bb555cdae593ba83fdbae52) = 1,628,819.29785908199623499 TDP 
 
 In order to burn TDP tokens, the tokens will be transferred to (0x000...000) address. The transaction details will be posted here after the tokens have been burnt.
   
