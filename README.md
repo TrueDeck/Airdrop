@@ -9,7 +9,7 @@ For Mega-Airdrop, 20 Million TDP tokens were reserved for allocation. At the tim
 Users who had TDP tokens at the time of Mega-Airdrop snapshot, has also been allocated with TDP tokens.
 Please find the details below in the spreadsheet [here](https://docs.google.com/spreadsheets/d/10dRPiz7ldrZDNUSkrC4jwuuo-Cq1ccfPKaBzQ6rWtGQ/edit?usp=sharing).
 
-**Below are the stats of Mega-Airdrop allocation event:
+**Below are the stats of Mega-Airdrop allocation event: **
 - **Started:** Dec-22-2018 02:23:56 PM +UTC
 - **Ended:** Dec-22-2018 07:32:02 PM +UTC
 - **Total TDP Allocated:** 19,974,430 TDP
