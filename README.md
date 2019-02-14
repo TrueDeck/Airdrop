@@ -5,10 +5,14 @@ TrueDeck Pre-Airdrop and Mega-Airdrop details
 ### Mega-Airdrop Allocation
 For Mega-Airdrop, 20 Million TDP tokens were reserved for allocation. At the time of allocation, we moved 20 Million TDP from our [Marketing Wallet](https://etherscan.io/token/0x5b11aacb6bddb9ffab908fdce739bf4aed554327?a=0x88a9b040be0d6b64f79e8ec32dbc08abce5f9d73) to [Airdrop Allocation Wallet](https://etherscan.io/token/0x5b11aacb6bddb9ffab908fdce739bf4aed554327?a=0xea7da5261c82a56e7bb555cdae593ba83fdbae52).
 
-Below are the stats of Mega-Airdrop allocation event:
+#### IDEX Mega-Airdrop Allocation
+Users who had TDP tokens at the time of Mega-Airdrop snapshot, has also been allocated with TDP tokens.
+Please find the details below in the spreadsheet [here](https://docs.google.com/spreadsheets/d/10dRPiz7ldrZDNUSkrC4jwuuo-Cq1ccfPKaBzQ6rWtGQ/edit?usp=sharing).
+
+**Below are the stats of Mega-Airdrop allocation event:
 - **Started:** Dec-22-2018 02:23:56 PM +UTC
 - **Ended:** Dec-22-2018 07:32:02 PM +UTC
-- **Total TDP Allocated:** 19,973,676 TDP
+- **Total TDP Allocated:** 19,974,430 TDP
 
 Mega-Airdrop allocation data is publicly available on [GitHub](https://github.com/TrueDeck/Airdrop/blob/master/TDP%20Mega%20Airdrop%20Allocation.pdf) & [Google Sheets](https://docs.google.com/spreadsheets/d/1LXDdl5s6v5FZ6XHQJn7jk2ZN4H7Ptqjt-DRFX0FaPIw/edit?usp=sharing).
 
@@ -30,7 +34,7 @@ Pre-Airdrop allocation data is publicly available on [GitHub](https://github.com
 
 
 ### Burning remaining TDP tokens
-Both Pre-Airdrop & Mega-Airdrop allocation have been completed. As per the airdrop terms, the tokens left in airdrop wallets will be burned. Users who had funds in IDEX during Mega-Airdrop snapshot, will not be awarded with airdrop TDP tokens.
+Both Pre-Airdrop & Mega-Airdrop allocation have been completed. As per the airdrop terms, the tokens left in airdrop wallets will be burned.
 
 Below are the details for the number of tokens that will be burned:
 
